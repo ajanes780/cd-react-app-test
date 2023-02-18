@@ -24,6 +24,7 @@ artifacts:
     - components/**/*
     - public/**/*
     - build/**/*
+    - src/**/**
     - scripts/**/*
     - package.json
     - package-lock.json
