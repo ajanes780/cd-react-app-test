@@ -23,6 +23,7 @@ artifacts:
     - components/**/*
     - public/**/*
     - build/**/*
+    - scripts/**/*
     - package.json
     - package-lock.json
     - appspec.yaml
