@@ -19,6 +19,7 @@ artifacts:
   # notably excluded is node_modules, as this will cause overwrite error on deploy
 
   files:
+    - appspec.yaml
     - assets/**/*
     - components/**/*
     - public/**/*
@@ -26,5 +27,4 @@ artifacts:
     - scripts/**/*
     - package.json
     - package-lock.json
-    - appspec.yaml
 
