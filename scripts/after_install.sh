@@ -1,4 +1,4 @@
 #!/bin/bash
 cd /home/ec2-user/server
 npm install
-npm install -g pm2
+sudo npm install -g pm2
